@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04e6be40-4ffc-4ad7-b6ae-92313427034d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.drone.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintrc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.framgia-ci.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.reek" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.rspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.rubocop.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.rubocop_disabled.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.rubocop_enabled.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.scss-lint.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dockerfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framgia_ci_integrate_steps.md" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.bundle/" />
+    <ignored path="$PROJECT_DIR$/components/" />
+    <ignored path="$PROJECT_DIR$/public/system/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/vendor/bundle/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="user.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hoadon.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/hoadon.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DATABASE/e25f533f-2bd3-4896-b956-be50d5ea7587" pinned="false" current-in-tab="false">
+        <entry file="uml://DATABASE/e25f533f-2bd3-4896-b956-be50d5ea7587">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>DATABASE</ID>
+              <OriginalElement>e25f533f-2bd3-4896-b956-be50d5ea7587</OriginalElement>
+              <nodes>
+                <node x="312.78385416666663" y="509.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.hoadons</node>
+                <node x="0.0" y="688.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.nhas</node>
+                <node x="0.0" y="961.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.ar_internal_metadata</node>
+                <node x="402.0" y="732.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.diens</node>
+                <node x="226.0" y="961.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.sqlite_sequence</node>
+                <node x="603.0" y="710.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.wifis</node>
+                <node x="829.0" y="0.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.sqlite_master</node>
+                <node x="420.0" y="961.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.schema_migrations</node>
+                <node x="513.7838541666666" y="498.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.xes</node>
+                <node x="201.0" y="732.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.nuocs</node>
+                <node x="259.5" y="0.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.users</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.diens" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.hoadons">
+                  <point x="0.0" y="-70.0" />
+                  <point x="492.5" y="668.0" />
+                  <point x="425.90885416666663" y="668.0" />
+                  <point x="22.625" y="59.0" />
+                </edge>
+                <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.hoadons" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.users">
+                  <point x="0.0" y="-59.0" />
+                  <point x="403.28385416666663" y="473.0" />
+                  <point x="392.0" y="473.0" />
+                  <point x="0.0" y="224.0" />
+                </edge>
+                <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.nuocs" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.hoadons">
+                  <point x="0.0" y="-70.0" />
+                  <point x="291.5" y="668.0" />
+                  <point x="380.65885416666663" y="668.0" />
+                  <point x="-22.625" y="59.0" />
+                </edge>
+                <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.xes" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.users">
+                  <point x="0.0" y="-70.0" />
+                  <point x="604.2838541666666" y="473.0" />
+                  <point x="480.3333333333333" y="473.0" />
+                  <point x="88.33333333333331" y="224.0" />
+                </edge>
+                <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.nhas" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.users">
+                  <point x="-45.25" y="-114.0" />
+                  <point x="45.25" y="473.0" />
+                  <point x="303.6666666666667" y="473.0" />
+                  <point x="-88.33333333333331" y="224.0" />
+                </edge>
+                <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.nhas" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.hoadons">
+                  <point x="45.25" y="-114.0" />
+                  <point x="135.75" y="658.0" />
+                  <point x="335.40885416666663" y="658.0" />
+                  <point x="-67.875" y="59.0" />
+                </edge>
+                <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.wifis" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.hoadons">
+                  <point x="0.0" y="-92.0" />
+                  <point x="693.5" y="658.0" />
+                  <point x="471.15885416666663" y="658.0" />
+                  <point x="67.875" y="59.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.8089171974522293" x="-370.61811023622056" y="286.6929133858267" />
+              <SelectedNodes>
+                <node>e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.diens</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Key columns</Category>
+                <Category>Columns</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".drone.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.drone.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+        <entry file="file:///Volumes/General/Mac/ci-config-master/ruby/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="29" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nha.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/nha.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20170809070755_create_nhas.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20170809070755_create_nhas.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dien.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/dien.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RailsDependency/Xe" pinned="false" current-in-tab="false">
+        <entry file="uml://RailsDependency/Xe">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>RailsDependency</ID>
+              <OriginalElement>Xe</OriginalElement>
+              <nodes>
+                <node x="703.0" y="76.5604943064182">User</node>
+                <node x="1040.0" y="287.5604943064182">Xe</node>
+                <node x="471.0" y="419.06049430641826">Nha</node>
+                <node x="1252.0" y="253.26546325051754">ApplicationRecord</node>
+                <node x="544.5060449050086" y="32.49918169847348">Dien</node>
+                <node x="232.0" y="249.0604943064182">Hoadon</node>
+                <node x="471.0" y="643.0604943064183">Nuoc</node>
+                <node x="0.0" y="219.3104943064182">Wifi</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="User" target="Xe">
+                  <point x="128.5" y="156.66666666666663" />
+                  <point x="-66.0" y="24.0" />
+                </edge>
+                <edge source="Wifi" target="ApplicationRecord">
+                  <point x="76.0" y="-46.66666666666666" />
+                  <point x="232.0" y="0.0" />
+                  <point x="1172.0" y="0.0" />
+                  <point x="-72.0" y="-12.428571428571416" />
+                </edge>
+                <edge source="Nuoc" target="Hoadon">
+                  <point x="-76.0" y="-24.0" />
+                  <point x="79.5" y="50.3125" />
+                </edge>
+                <edge source="Hoadon" target="ApplicationRecord">
+                  <point x="79.5" y="-70.4375" />
+                  <point x="471.0" y="7.560494306418207" />
+                  <point x="1172.0" y="7.560494306418207" />
+                  <point x="-72.0" y="-8.285714285714278" />
+                </edge>
+                <edge source="Hoadon" target="Nuoc">
+                  <point x="79.5" y="70.4375" />
+                  <point x="-76.0" y="24.0" />
+                </edge>
+                <edge source="User" target="ApplicationRecord">
+                  <point x="128.5" y="-156.66666666666666" />
+                  <point x="1040.0" y="220.76934523809524" />
+                  <point x="1172.0" y="220.76934523809524" />
+                  <point x="-72.0" y="-0.0" />
+                </edge>
+                <edge source="Nha" target="User">
+                  <point x="76.0" y="-46.0" />
+                  <point x="-128.5" y="117.5" />
+                </edge>
+                <edge source="Nha" target="Hoadon">
+                  <point x="-76.0" y="-46.0" />
+                  <point x="79.5" y="10.0625" />
+                </edge>
+                <edge source="Nha" target="ApplicationRecord">
+                  <point x="76.0" y="46.0" />
+                  <point x="1172.0" y="557.0604943064183" />
+                  <point x="-72.0" y="8.285714285714278" />
+                </edge>
+                <edge source="Dien" target="Hoadon">
+                  <point x="-76.0" y="-24.0" />
+                  <point x="79.5" y="-50.3125" />
+                </edge>
+                <edge source="Dien" target="ApplicationRecord">
+                  <point x="76.0" y="-0.0" />
+                  <point x="1172.0" y="66.0604943064182" />
+                  <point x="-72.0" y="-4.142857142857167" />
+                </edge>
+                <edge source="Hoadon" target="Nha">
+                  <point x="79.5" y="30.1875" />
+                  <point x="-76.0" y="46.0" />
+                </edge>
+                <edge source="User" target="Hoadon">
+                  <point x="-128.5" y="-117.5" />
+                  <point x="471.0" y="194.0604943064182" />
+                  <point x="79.5" y="-10.0625" />
+                </edge>
+                <edge source="Hoadon" target="Dien">
+                  <point x="79.5" y="-30.1875" />
+                  <point x="-76.0" y="24.0" />
+                </edge>
+                <edge source="Hoadon" target="Wifi">
+                  <point x="-79.5" y="-40.25" />
+                  <point x="76.0" y="-0.0" />
+                </edge>
+                <edge source="Wifi" target="Hoadon">
+                  <point x="76.0" y="46.66666666666666" />
+                  <point x="-79.5" y="40.25" />
+                </edge>
+                <edge source="Nuoc" target="ApplicationRecord">
+                  <point x="76.0" y="-0.0" />
+                  <point x="1172.0" y="691.0604943064183" />
+                  <point x="-72.0" y="12.428571428571445" />
+                </edge>
+                <edge source="Xe" target="User">
+                  <point x="-66.0" y="-24.0" />
+                  <point x="128.5" y="-0.0" />
+                </edge>
+                <edge source="Xe" target="ApplicationRecord">
+                  <point x="66.0" y="-0.0" />
+                  <point x="-72.0" y="4.142857142857167" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.7618421052631579" x="88.293609671848" y="305.0259067357513" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Association fields</Category>
+                <Category>Migration fields</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/models/xe.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20170809071026_create_xes.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20170809072941_create_nuocs.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20170809073142_create_wifis.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20170809072930_create_diens.rb" />
+        <option value="$PROJECT_DIR$/app/models/hoadon.rb" />
+        <option value="$PROJECT_DIR$/app/models/dien.rb" />
+        <option value="$PROJECT_DIR$/app/models/nuoc.rb" />
+        <option value="$PROJECT_DIR$/app/models/wifi.rb" />
+        <option value="$PROJECT_DIR$/app/models/nha.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20170809070755_create_nhas.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1007" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="RailsProjectView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nhatro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nhatro" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/db" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Rails.Development: nhatro">
+    <configuration name="Development: nhatro" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="nhatro" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+    </configuration>
+    <configuration name="Production: nhatro" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="nhatro" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+    </configuration>
+    <configuration name="spec: nhatro" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="nhatro" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+    </configuration>
+    <configuration name="test: nhatro" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="nhatro" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Rake.test: nhatro" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec: nhatro" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: nhatro" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: nhatro" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04e6be40-4ffc-4ad7-b6ae-92313427034d" name="Default" comment="" />
+      <created>1502263433913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502263433913</updated>
+      <workItem from="1502263435151" duration="1351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1351000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1007" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5021299" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Routes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943678" sideWeight="0.4978701" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Routes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/models/xe.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170809073025_create_hoadons.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170809073142_create_wifis.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170809071026_create_xes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170809071128_add_admin_to_user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170809072930_create_diens.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170809072941_create_nuocs.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170809065843_devise_create_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/nuoc.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/wifi.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://RailsDependency/Xe">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>RailsDependency</ID>
+          <OriginalElement>Xe</OriginalElement>
+          <nodes>
+            <node x="703.0" y="76.5604943064182">User</node>
+            <node x="1040.0" y="287.5604943064182">Xe</node>
+            <node x="471.0" y="419.06049430641826">Nha</node>
+            <node x="1252.0" y="253.26546325051754">ApplicationRecord</node>
+            <node x="544.5060449050086" y="32.49918169847348">Dien</node>
+            <node x="232.0" y="249.0604943064182">Hoadon</node>
+            <node x="471.0" y="643.0604943064183">Nuoc</node>
+            <node x="0.0" y="219.3104943064182">Wifi</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="User" target="Xe">
+              <point x="128.5" y="156.66666666666663" />
+              <point x="-66.0" y="24.0" />
+            </edge>
+            <edge source="Wifi" target="ApplicationRecord">
+              <point x="76.0" y="-46.66666666666666" />
+              <point x="232.0" y="0.0" />
+              <point x="1172.0" y="0.0" />
+              <point x="-72.0" y="-12.428571428571416" />
+            </edge>
+            <edge source="Nuoc" target="Hoadon">
+              <point x="-76.0" y="-24.0" />
+              <point x="79.5" y="50.3125" />
+            </edge>
+            <edge source="Hoadon" target="ApplicationRecord">
+              <point x="79.5" y="-70.4375" />
+              <point x="471.0" y="7.560494306418207" />
+              <point x="1172.0" y="7.560494306418207" />
+              <point x="-72.0" y="-8.285714285714278" />
+            </edge>
+            <edge source="Hoadon" target="Nuoc">
+              <point x="79.5" y="70.4375" />
+              <point x="-76.0" y="24.0" />
+            </edge>
+            <edge source="User" target="ApplicationRecord">
+              <point x="128.5" y="-156.66666666666666" />
+              <point x="1040.0" y="220.76934523809524" />
+              <point x="1172.0" y="220.76934523809524" />
+              <point x="-72.0" y="-0.0" />
+            </edge>
+            <edge source="Nha" target="User">
+              <point x="76.0" y="-46.0" />
+              <point x="-128.5" y="117.5" />
+            </edge>
+            <edge source="Nha" target="Hoadon">
+              <point x="-76.0" y="-46.0" />
+              <point x="79.5" y="10.0625" />
+            </edge>
+            <edge source="Nha" target="ApplicationRecord">
+              <point x="76.0" y="46.0" />
+              <point x="1172.0" y="557.0604943064183" />
+              <point x="-72.0" y="8.285714285714278" />
+            </edge>
+            <edge source="Dien" target="Hoadon">
+              <point x="-76.0" y="-24.0" />
+              <point x="79.5" y="-50.3125" />
+            </edge>
+            <edge source="Dien" target="ApplicationRecord">
+              <point x="76.0" y="-0.0" />
+              <point x="1172.0" y="66.0604943064182" />
+              <point x="-72.0" y="-4.142857142857167" />
+            </edge>
+            <edge source="Hoadon" target="Nha">
+              <point x="79.5" y="30.1875" />
+              <point x="-76.0" y="46.0" />
+            </edge>
+            <edge source="User" target="Hoadon">
+              <point x="-128.5" y="-117.5" />
+              <point x="471.0" y="194.0604943064182" />
+              <point x="79.5" y="-10.0625" />
+            </edge>
+            <edge source="Hoadon" target="Dien">
+              <point x="79.5" y="-30.1875" />
+              <point x="-76.0" y="24.0" />
+            </edge>
+            <edge source="Hoadon" target="Wifi">
+              <point x="-79.5" y="-40.25" />
+              <point x="76.0" y="-0.0" />
+            </edge>
+            <edge source="Wifi" target="Hoadon">
+              <point x="76.0" y="46.66666666666666" />
+              <point x="-79.5" y="40.25" />
+            </edge>
+            <edge source="Nuoc" target="ApplicationRecord">
+              <point x="76.0" y="-0.0" />
+              <point x="1172.0" y="691.0604943064183" />
+              <point x="-72.0" y="12.428571428571445" />
+            </edge>
+            <edge source="Xe" target="User">
+              <point x="-66.0" y="-24.0" />
+              <point x="128.5" y="-0.0" />
+            </edge>
+            <edge source="Xe" target="ApplicationRecord">
+              <point x="66.0" y="-0.0" />
+              <point x="-72.0" y="4.142857142857167" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7618421052631579" x="88.293609671848" y="305.0259067357513" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Association fields</Category>
+            <Category>Migration fields</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/dien.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/hoadon.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/nha.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170809070755_create_nhas.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/e25f533f-2bd3-4896-b956-be50d5ea7587">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>e25f533f-2bd3-4896-b956-be50d5ea7587</OriginalElement>
+          <nodes>
+            <node x="312.78385416666663" y="509.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.hoadons</node>
+            <node x="0.0" y="688.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.nhas</node>
+            <node x="0.0" y="961.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.ar_internal_metadata</node>
+            <node x="402.0" y="732.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.diens</node>
+            <node x="226.0" y="961.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.sqlite_sequence</node>
+            <node x="603.0" y="710.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.wifis</node>
+            <node x="829.0" y="0.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.sqlite_master</node>
+            <node x="420.0" y="961.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.schema_migrations</node>
+            <node x="513.7838541666666" y="498.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.xes</node>
+            <node x="201.0" y="732.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.nuocs</node>
+            <node x="259.5" y="0.0">e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.users</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.diens" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.hoadons">
+              <point x="0.0" y="-70.0" />
+              <point x="492.5" y="668.0" />
+              <point x="425.90885416666663" y="668.0" />
+              <point x="22.625" y="59.0" />
+            </edge>
+            <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.hoadons" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.users">
+              <point x="0.0" y="-59.0" />
+              <point x="403.28385416666663" y="473.0" />
+              <point x="392.0" y="473.0" />
+              <point x="0.0" y="224.0" />
+            </edge>
+            <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.nuocs" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.hoadons">
+              <point x="0.0" y="-70.0" />
+              <point x="291.5" y="668.0" />
+              <point x="380.65885416666663" y="668.0" />
+              <point x="-22.625" y="59.0" />
+            </edge>
+            <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.xes" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.users">
+              <point x="0.0" y="-70.0" />
+              <point x="604.2838541666666" y="473.0" />
+              <point x="480.3333333333333" y="473.0" />
+              <point x="88.33333333333331" y="224.0" />
+            </edge>
+            <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.nhas" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.users">
+              <point x="-45.25" y="-114.0" />
+              <point x="45.25" y="473.0" />
+              <point x="303.6666666666667" y="473.0" />
+              <point x="-88.33333333333331" y="224.0" />
+            </edge>
+            <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.nhas" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.hoadons">
+              <point x="45.25" y="-114.0" />
+              <point x="135.75" y="658.0" />
+              <point x="335.40885416666663" y="658.0" />
+              <point x="-67.875" y="59.0" />
+            </edge>
+            <edge source="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.wifis" target="e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.hoadons">
+              <point x="0.0" y="-92.0" />
+              <point x="693.5" y="658.0" />
+              <point x="471.15885416666663" y="658.0" />
+              <point x="67.875" y="59.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8089171974522293" x="-370.61811023622056" y="286.6929133858267" />
+          <SelectedNodes>
+            <node>e25f533f-2bd3-4896-b956-be50d5ea7587.TABLE:main.diens</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.drone.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Volumes/General/Mac/ci-config-master/ruby/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="29" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

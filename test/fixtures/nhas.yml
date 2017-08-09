@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  phong: MyString
+  tang: MyString
+  songuoi: MyString
+  gia: 1
+
+two:
+  phong: MyString
+  tang: MyString
+  songuoi: MyString
+  gia: 1
